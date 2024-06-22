@@ -37,6 +37,6 @@ if player_name:
         player_features = player_data_clean[new_predictors].iloc[0].values.reshape(1, -1)
 
         predicted_ops = ridge_model.predict(player_features)[0]
-        st.write(f'Predict OPS for {player_name} in 2024: {predicted_ops}')
+        st.write(f'Predicted OPS for {player_name} in 2024: **{predicted_ops}**')
     else:
         st.write('Player not found')
