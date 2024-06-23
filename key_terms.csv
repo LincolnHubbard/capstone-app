@@ -1,0 +1,23 @@
+﻿Term,Definition
+AVG (Batting Average),"The percentage of at-bats in which a player records a hit. Walks, sacrifice plays, and hit-by-pitches do not count against this average."
+Barrels,An at-bat in which the batted ball has a combination of exit velocity and launch angle that usually leads to a batting average of .500 and a slugging percentage of 1.500.
+Bat (Park Adjusted Runs Above Average) ,"The amount of runs a player generates compared to league average, adjusted for the ballparks the at-bats took place in."
+BB/K (Walk-to-Strikeout Ratio) ,"The amount of runs a player generates compared to league average, adjusted for the ballparks the at-bats took place in."
+Hard%+ (Hard-Hit Rate) ,"The percentage of batted balls which have an exit velocity of at least 95 MPH, compared to the league average."
+EV (Exit Velocity) ,The speed of the baseball after the player makes contact.
+KC% (Strikeout-Looking Percentage) ,The percentage of recorded strikeouts where a player does not swing at the third strike.
+maxEV (Maximum Exit Velocity) ,The maximum exit velocity recorded by a player in a season.
+Med% (Medium-Hit Rate),"The percentage of batted balls considered to have a medium quality of contact. The exact MPH is unknown, as the algorithm to determine the quality of contact is proprietary "
+Med&+ ,The player’s medium-hit rate compared to the league average.
+OBP (On-base Percentage) ,The percentage of at-bats in which a player successfully reaches base. This includes events such as walks or hit-by-pitches.
+O-Contact% ,The percentage of balls swung at outside of the strike zone that were successfully put into play.
+OPS (On-base Plus Slugging Percentage) ,The player’s on-base percentage added to their slugging percentage. Balances a player’s ability to get on base with their ability to hit for power.
+Soft% (Soft-Hit Rate) ,"The percentage of batted balls considered to have a soft (or poor) quality of contact. The exact MPH is unknown, as the algorithm to determine the quality of contact is proprietary "
+Soft%+ ,The player’s soft-hit rate compared to the league average.
+SLG (Slugging Percentage) ,The average number of bases earned by a player per at-bat. A player with a SLG of .400 will earn at least one base for every 2-3 at-bats. 
+SL-Z (Slider Vertical Movement) ,"The average vertical movement of sliders hit by this player, more or less measures a players ability to hit sliders."
+wFB (Weighted Fastball Runs) ,"The amount of runs a player generates when hitting fastballs, compared to the league average."
+wOBA (Weighted On-Base Average),A variation of on-base percentage which assigns a weight to each hitting event. This statistic favors recording extra-base hits over taking walks and hit-by-pitches to reach base. 
+wRAA (Weighted Runs Above Average) ,The amount of runs a player generates per at-bat compared to the league average. 
+wRC+ (Weighted Runs Created Plus) ,"Compares the number of runs a player creates to the league average, while taking into account factors such as the ballpark and season."
+Zone% ,The percentage of pitches a player sees that are within the strike zone.
